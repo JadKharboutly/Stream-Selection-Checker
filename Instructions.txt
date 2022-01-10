@@ -1,0 +1,4 @@
+--Make sure you have pip installed.
+-- Open command promppt and install the following the requests library. --> python -m pip install requests
+-- Open command promppt and install the following the bs4 library. --> python -m pip install bs4
+-- Open command promppt and install the following the lxml library. --> python -m pip install lxml
